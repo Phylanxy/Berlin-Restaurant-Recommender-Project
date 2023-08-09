@@ -14,7 +14,7 @@ Our solution is a location recommender that utilizes artificial intelligence (AI
 - [GPT-3.5 API](https://platform.openai.com/docs/models/overview)<br>
 - [Anvil](https://anvil.works/)<br>
 
-## 2. How did we built the project?
+## 2. How did we build the project?
 
 1.  Creation of Database against which preferred location is being measured [1. Database]
     - Scraping of Restaurants in Berlin via Google Maps API
